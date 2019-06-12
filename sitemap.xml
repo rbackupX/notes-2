@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/computer_vision/fine_tuning_conv_nets/</loc>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/internals/itertools_powerset/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/internals/itertools_round_robin/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/internals/itertools_building_blocks/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/internals/itertools_all_equal/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/internals/itertools_grouper/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/internals/itertools_sliding_window/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/computer_vision/data_augmentation/</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/tensorflow/keras_api/</loc>
+    <lastmod>2019-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/stats/techniques/pca/</loc>
+    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/stats/basics/simpsons/</loc>
+    <lastmod>2018-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/text/glove/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/rnns/sentiment_analysis/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/text/embeddings/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/text/word_similarity/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/text/word2vec/</loc>
+    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/rnns/gru/</loc>
+    <lastmod>2018-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/rnns/lstm/</loc>
+    <lastmod>2018-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/rnns/basics/</loc>
+    <lastmod>2018-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/computer_vision/style_transfer/</loc>
+    <lastmod>2018-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/computer_vision/yolo_intuition/</loc>
+    <lastmod>2018-10-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/computer_vision/inception/</loc>
+    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/tensorflow/saving_loading/</loc>
+    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/tensorflow/transfer_learning/</loc>
+    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/computer_vision/resnets/</loc>
+    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/computer_vision/vgg/</loc>
+    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/stats/basics/conf_ints/</loc>
+    <lastmod>2018-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/tensorflow/cnn_organization/</loc>
+    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/computer_vision/conv_project_structure/</loc>
+    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/computer_vision/conv_hyperparams/</loc>
+    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/computer_vision/conv_intuition/</loc>
+    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/images/cropping/</loc>
+    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/images/libs/</loc>
+    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/computer_vision/pooling/</loc>
+    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/datasets/make_classification/</loc>
+    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/neural_nets/improving_performance/</loc>
+    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/validation/roc_auc/</loc>
+    <lastmod>2018-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/tensorflow/basics/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/validation/precision_recall_f1/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/tensorflow/simple_optimization/</loc>
+    <lastmod>2018-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/neural_nets/batch_norm/</loc>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/regression/multiclass/</loc>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/model_selection/random_search/</loc>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/stats/techniques/ewma/</loc>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/neural_nets/mini_batch/</loc>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/neural_nets/adam_opt/</loc>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/neural_nets/regularization/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/viz/contours/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/viz/scatter/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/validation/decision_boundaries/</loc>
+    <lastmod>2018-08-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/neural_nets/xnor/</loc>
+    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/neural_nets/deeper_props/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/neural_nets/activation_fns/</loc>
+    <lastmod>2018-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/neural_nets/back_prop/</loc>
+    <lastmod>2018-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/neural_nets/forward_prop/</loc>
+    <lastmod>2018-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/regression/logistic_regression_basics/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/regression/logit_grad_descent/</loc>
+    <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/viz/tick_locating/</loc>
+    <lastmod>2018-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/viz/tick_styling/</loc>
+    <lastmod>2018-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/viz/tick_string_formatting/</loc>
+    <lastmod>2018-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/viz/subplots/</loc>
+    <lastmod>2018-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/stats/basics/sample_size/</loc>
+    <lastmod>2018-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/stats/basics/sample_vs_pop/</loc>
+    <lastmod>2018-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/stats/basics/sampling_distributions/</loc>
+    <lastmod>2018-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/development/sim_stdin/</loc>
+    <lastmod>2018-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/spark/sparksql/value_counts/</loc>
+    <lastmod>2018-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/spark/machine_learning/spam_classifier_mllib/</loc>
+    <lastmod>2018-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/spark/sparksql/overview/</loc>
+    <lastmod>2018-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/spark/sparksql/columns/</loc>
+    <lastmod>2018-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/spark/intermediate/dropping_columns/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/spark/sparksql/null_data/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/spark/sparksql/sql_basics/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/spark/sparksql/load_json/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/spark/sparksql/load_csv/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/pandas/rolling_df_window/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/spark/intermediate/rolling_df_window_spark/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/spark/sparksql/stats/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/spark/sparksql/topandas_datetime_error/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/spark/basics/basic_pair_operations/</loc>
+    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/spark/basics/creating_pair_rdds/</loc>
+    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/validation/cross_validation/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/model_selection/grid_search/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/preprocessing/custom_transformers/</loc>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/validation/rmse/</loc>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/preprocessing/sklearn_pipelines/</loc>
+    <lastmod>2018-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/preprocessing/encoding_categorical/</loc>
+    <lastmod>2018-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/preprocessing/imputation/</loc>
+    <lastmod>2018-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/preprocessing/standardization/</loc>
+    <lastmod>2018-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/datasets/boston/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/datasets/iris/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/machine_learning/preprocessing/splitting_data/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/oop/attributes_and_subclasses/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/spark/basics/basic_functional_programming_fns/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/pandas/groupby/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/development/how_imports_cache/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/oop/method_decorators/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/development/modules/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/development/packages/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/development/pathing/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/spark/basics/rdds/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/spark/basics/set_operations/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/spark/basics/aggregate_fn/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/internals/csv/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/spark/basics/transformations_and_actions/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/internals/yield_from/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/pandas/csv_1_overview/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/pandas/csv_2_indexing/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/pandas/csv_3_type_handling/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/pandas/csv_4_datetime_handling/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/pandas/csv_5_cleaning/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/pandas/csv_6_iterating/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/internals/data/fdic_failed_bank_list/</loc>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/python/pandas/data/fdic_failed_bank_list/</loc>
+  </url>
+  
+  <url>
+    <loc>https://napsterinblue.github.io/notes/</loc>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
